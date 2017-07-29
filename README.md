@@ -4,12 +4,12 @@
 <section>	    
      <h2>Week 3: HTML</h2>
      
-- [ ]  1. Exercise
+- [ ]  <h3>1. Exercise</h3>
        <p>If you did not complete the exercises from last week, do so.</p>
            <p>If you have not read Modules 1 and 2 of the Study Book,
 	   do so.</p>
 	   
-- [ ]  2. Exercise
+- [ ]  <h3>2. Exercise</h3>
        <p>The HTML used in last week’s practical is written in XHTML.
        The same code in HTML is:</p>
 
@@ -60,9 +60,7 @@
        document. The advantage (and frustration) of XHTML documents
        is that the browser will error check your HTML document.</p>
        
-       </section>
-       
-- [ ]   3. Exercise
+- [ ]   <h3>3. Exercise</h3>
 	Structure the text file <a href="prac\p04">Poets.txt</a>
 		using XHTML markup. The file contains three poems about the
 		First World War, by poets that participated in the conflict.
@@ -73,21 +71,21 @@
 		structure the source file it is not used to format the
 		browser's output.
 
-- [ ] 4. Exercise
-	Format the text file <a href="Heracles.txt">Heracles.txt</a>
+- [ ] <h3>4. Exercise</h3>
+	Format the text file <a href="prac\p04">Heracles.txt</a>
 		using XHTML markup. The file contains the opening scene of Euripides'
 		play Heracles. To format the file make use of Emphasised, Italic
 		and Bold text, headings, a Descriptive List, &amp;c.
 
-- [ ] 5. Exercise    
-	Structure the text file <a href="TheLongShips.txt">TheLongShips.txt</a>
+- [ ] <h3>5. Exercise</h3>
+	Structure the text file <a href="prac\p04">TheLongShips.txt</a>
 		using XHTML markup. The file contains the opening paragraph of 
 		Frans Bengtsson’s book “The Long Ships”. Use the 
 		<code>id</code> attribute to 
 		correctly setup links to the footnotes and from the footnotes back
 		to the text.
        
-- [ ] 6. Exercise      
+- [ ] <h3>6. Exercise</h3>    
 	Structure the following Body Mass Index table 
 		from the World Health Organisation using the <kbd>table</kbd> element.
 <pre>
