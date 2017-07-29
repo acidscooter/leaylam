@@ -2,7 +2,7 @@
 <p>This is my current CV/resume in HTML, it is also hosted using AWS CloudFront.</p>
 
 <details> 
-<summary>##Week 4: CSS Intro</summary>
+<summary>Week 4: CSS Intro</summary>
 	<h3>Exercise 1</h3>
 		<p>
 		If you did not complete the exercises from last week, do so.
@@ -26,7 +26,7 @@
 </details>
 
 <details>
-<summary>##Week 3: HTML</summary>
+<summary>Week 3: HTML</summary>
      
 <h3>1. Exercise</h3>
        <p>If you did not complete the exercises from last week, do so.</p>
