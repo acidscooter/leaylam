@@ -2,7 +2,7 @@
 <p>This is my current CV/resume in HTML, it is also hosted using AWS CloudFront.</p>
 
 <details> 
-##<summary>Week 4: CSS Intro</summary>
+<summary>##Week 4: CSS Intro</summary>
 	<h3>Exercise 1</h3>
 		<p>
 		If you did not complete the exercises from last week, do so.
@@ -24,8 +24,9 @@
 		Experiment with changing the style of the footnotes, study the footnotes used in the StudyBook. How is the selected footnote highlighted?
 		</p>
 </details>
-    
-##Week 3: HTML
+
+<details>
+<summary>##Week 3: HTML</summary>
      
 <h3>1. Exercise</h3>
        <p>If you did not complete the exercises from last week, do so.</p>
@@ -35,3 +36,4 @@
 <h3>2. Exercise</h3>
        <p>The HTML used in last week’s practical is written in XHTML.
        The same code in HTML is:</p>
+</details>
