@@ -1,8 +1,8 @@
 <h2>http://www.leaylam.com</h2>
 <p>This is my current CV/resume in HTML, it is also hosted using AWS CloudFront.</p>
 
-<div hidden>
-<h2 hidden>Week 4: CSS Intro</h2>
+<details> 
+<summary><h2>Week 4: CSS Intro</h2>
 	<h3>Exercise 1</h3>
 		<p>
 		If you did not complete the exercises from last week, do so.
@@ -23,7 +23,7 @@
 		Add style to the structured file created from the text file TheLongShips.txt
 		Experiment with changing the style of the footnotes, study the footnotes used in the StudyBook. How is the selected footnote highlighted?
 		</p>
-</div>
+</details>
     
 <h2>Week 3: HTML</h2>
      
