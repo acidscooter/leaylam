@@ -2,7 +2,7 @@
 <p>This is my current CV/resume in HTML, it is also hosted using AWS CloudFront.</p>
 
 <details> 
-<summary><h2>Week 4: CSS Intro</h2></summary>
+<h2><summary>Week 4: CSS Intro</summary></h2>
 	<h3>Exercise 1</h3>
 		<p>
 		If you did not complete the exercises from last week, do so.
