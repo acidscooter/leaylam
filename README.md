@@ -62,7 +62,7 @@
        </section>
        
         3. Exercise
-- []	Structure the text file <a href="prac\p04">Poets.txt</a>
+- [ ]	Structure the text file <a href="prac\p04">Poets.txt</a>
 		using XHTML markup. The file contains three poems about the
 		First World War, by poets that participated in the conflict.
 		Structure the file using markup so the text is sectioned
@@ -73,13 +73,13 @@
 		browser's output.
 
 4. Exercise
-- []	Format the text file <a href="Heracles.txt">Heracles.txt</a>
+- [ ]	Format the text file <a href="Heracles.txt">Heracles.txt</a>
 		using XHTML markup. The file contains the opening scene of Euripides'
 		play Heracles. To format the file make use of Emphasised, Italic
 		and Bold text, headings, a Descriptive List, &amp;c.
 
 5. Exercise    
-- []	Structure the text file <a href="TheLongShips.txt">TheLongShips.txt</a>
+- [ ]	Structure the text file <a href="TheLongShips.txt">TheLongShips.txt</a>
 		using XHTML markup. The file contains the opening paragraph of 
 		Frans Bengtsson’s book “The Long Ships”. Use the 
 		<code>id</code> attribute to 
@@ -87,7 +87,7 @@
 		to the text.
        
 6. Exercise      
-- []	Structure the following Body Mass Index table 
+- [ ]	Structure the following Body Mass Index table 
 		from the World Health Organisation using the <kbd>table</kbd> element.
 <pre>
 Classification                           BMI(kg/m<sup>2</sup>)
