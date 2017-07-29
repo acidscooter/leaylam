@@ -3,16 +3,16 @@
 
 <section>	    
      <h2>Week 3: HTML</h2>
-     <dl>
-  <dt>- [ ] Exercise</dt>
-       <dd><p>If you did not complete the exercises from last week, do so.</p>
+     
+- [ ]  1. Exercise
+       <p>If you did not complete the exercises from last week, do so.</p>
            <p>If you have not read Modules 1 and 2 of the Study Book,
 	   do so.</p>
-       </dd>
-  <dt>- [ ] Exercise</dt>
-       <dd><p>The HTML used in last week’s practical is written in XHTML.
+	   
+- [ ]  2. Exercise
+       <p>The HTML used in last week’s practical is written in XHTML.
        The same code in HTML is:</p>
-     </dl>
+
 
 ```
 <!DOCTYPE html>
