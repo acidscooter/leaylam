@@ -15,6 +15,10 @@ html, body {background: #181818; font-family: 'Lato', helvetica, arial, sans-ser
 
 .clear {clear: both;}
 
+.break {
+    page-break-before: always;
+}
+
 p {
 	font-size: 1em;
 	line-height: 1.4em;
@@ -113,7 +117,7 @@ section:last-child {
 	display: block;
     padding: 20px 0 20px;
     margin: auto;
-    width: 83px;
+    width: 126px;
     border-top: 0;
 }
 
@@ -236,6 +240,10 @@ section:last-child {
     #cv {
         width: 100%;
     }
+
+    .social{
+        visibility:hidden;
+    }
 }
 
 @-webkit-keyframes reset {
@@ -322,39 +330,36 @@ section:last-child {
         color: white;
     }
 
+    .fa-file-pdf-o {
+    background: #972600;
+    color: white;
+}
+
     .fa-twitter {
         background: #55ACEE;
         color: white;
     }
 
-.fa-html5:hover {
-  opacity: 1;
+.fa-html5,
+.fa-css3,
+.fa-windows,
+.fa-linux {
+    padding: 0px;
+    margin: inherit;
 }
-.fa-html5 {
-  padding: 0px;
-  margin: inherit;
-}
-.fa-css3:hover {
-  opacity: 1;
-}
+
+    .fa-html5:hover,
+    .fa-css3:hover,
+    .fa-windows:hover,
+    .fa-linux:hover {
+        opacity: 1;
+        cursor: text;
+    }
+
 .fa-css3 {
-  padding: 0px;
   margin: 0px 0px 0px 2px;
 }
-.fa-windows:hover {
-  opacity: 1;
-}
-.fa-windows {
-  padding: 0px;
-  margin: inherit;
-}
-.fa-linux:hover {
-  opacity: 1;
-}
-.fa-linux {
-  padding: 0px;
-  margin: inherit;
-}
+
 
 
 .instaFade {
